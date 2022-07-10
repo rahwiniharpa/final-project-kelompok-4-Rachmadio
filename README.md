@@ -13,6 +13,6 @@ Problem: classification
 
 Final Model: Random Forest 
 
-Link Repositori: <link menuju repositori ini>
+Link Repositori: https://github.com/rahwiniharpa/final-project-kelompok-4-Rachmadio
 
 Link PPT: (https://docs.google.com/presentation/d/1tIhxPdfMxWpy_UCnmF6OTOM1W1akXeGmc4cCfqnK8mE/edit?usp=sharing)
